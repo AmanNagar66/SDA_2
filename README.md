@@ -730,13 +730,3 @@ Possible extensions include:
 -   Deploying the complete pipeline using Docker Compose.
 
 ------------------------------------------------------------------------
-
-# Author
-
-**Aman Nagar**
-
-PGDM -- Big Data Analytics\
-FORE School of Management
-
-**Project:** Real-Time Stock Market Analytics using Apache Kafka, MySQL
-and Grafana
